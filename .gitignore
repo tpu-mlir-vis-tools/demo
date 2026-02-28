@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+package-lock.json
+pnpm-lock.yaml
+node_modules/
+build/
+test/fixtures/
+doc/
